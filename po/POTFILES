@@ -1,0 +1,7 @@
+data/com.github.theironrobin.siglovala.desktop.in
+data/com.github.theironrobin.siglovala.appdata.xml.in
+data/com.github.theironrobin.siglovala.gschema.xml
+src/window.ui
+src/main.vala
+src/window.vala
+

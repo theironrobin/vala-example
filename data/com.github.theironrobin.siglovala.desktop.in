@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=siglo-vala
+Exec=siglo-vala
+Icon=com.github.theironrobin.siglovala
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true
